@@ -1,0 +1,9 @@
+C:\Users\Tony\Documents\HeartRateFinal\UserInfoDatabase\bin\Debug\UserInfoDatabase.dacpac
+C:\Users\Tony\Documents\HeartRateFinal\UserInfoDatabase\obj\Debug\UserInfoDatabase.dll
+C:\Users\Tony\Documents\HeartRateFinal\UserInfoDatabase\obj\Debug\UserInfoDatabase.pdb
+C:\Users\Tony\Documents\HeartRateFinal\UserInfoDatabase\bin\Debug\UserInfoDatabase.dll
+C:\Users\Tony\Documents\HeartRateFinal\UserInfoDatabase\bin\Debug\UserInfoDatabase.pdb
+C:\Users\Tony\Documents\HeartRateFinal\UserInfoDatabase\obj\Debug\Model.xml
+C:\Users\Tony\Documents\HeartRateFinal\UserInfoDatabase\obj\Debug\refactor.xml
+C:\Users\Tony\Documents\HeartRateFinal\UserInfoDatabase\obj\Debug\postdeploy.sql
+C:\Users\Tony\Documents\HeartRateFinal\UserInfoDatabase\obj\Debug\predeploy.sql
